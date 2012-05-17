@@ -1,0 +1,10 @@
+saw a ted talk about fractals being part of many African societies,
+and realized they were even part of the culture (every woman my mom's age would be treated like my mom,
+every man my dad's age would be treated like my dad, etc). Yet the presenter seemed to suggest that these
+indepth mathematical concepts were *just there* ...as if (before the books were stolen and burned) the folk
+didn't have the ability to explain the significance of what they were doing, and why.
+
+Moreover, he saw the concepts being put to practical use in fence building, village design, and more.
+
+Anyway, all that got me excited about writing some code to generate fractals from a starting-image
+(i.e. sort-of an automata / genetic-programmiing exercise)
